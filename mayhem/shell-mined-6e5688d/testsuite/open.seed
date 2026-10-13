@@ -1,0 +1,4 @@
+.open scratch.db
+CREATE TABLE IF NOT EXISTS t(x);
+SELECT count(*) FROM t;
+.databases

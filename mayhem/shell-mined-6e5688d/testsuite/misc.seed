@@ -1,0 +1,5 @@
+.timer on
+.echo on
+SELECT 1+1;
+.dump
+.show

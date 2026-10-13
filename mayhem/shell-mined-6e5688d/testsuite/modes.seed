@@ -1,0 +1,7 @@
+.mode column
+.headers on
+CREATE TABLE t(a,b);
+INSERT INTO t VALUES(1,2);
+SELECT * FROM t;
+.tables
+.schema
