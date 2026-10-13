@@ -1,0 +1,4 @@
+mayhem/build-tree/
+**/*.o
+**/*.a
+**/*.so
